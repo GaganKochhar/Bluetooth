@@ -1,0 +1,8 @@
+com/example/bluetoothapp/MainActivity.java
+ com.example.bluetoothapp.MainActivity
+ com.example.bluetoothapp.MainActivity$1
+ com.example.bluetoothapp.MainActivity$2
+ com.example.bluetoothapp.MainActivity$3
+ com.example.bluetoothapp.MainActivity$4
+com/example/bluetoothapp/BuildConfig.java
+ com.example.bluetoothapp.BuildConfig
